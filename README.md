@@ -2,17 +2,11 @@
 
 > A JavaFX desktop application that simulates a smart, zone-based waste management system for the city of Rawalpindi — featuring role-based dashboards, real-time compliance tracking, fine management, and an immersive 3D animated login screen.
 
-**NUST SEECS | CS-212 Object-Oriented Programming | Section A | Spring 2026**
-
-**Team:** Abdullah Ahmad · Unais Bin Faheem · Abdul Moiz Awan
-
----
 
 ## 📋 Table of Contents
 
 - [About](#-about)
 - [Features](#-features)
-- [Screenshots](#-screenshots)
 - [Tech Stack](#-tech-stack)
 - [Architecture & Design Principles](#-architecture--design-principles)
 - [Project Structure](#-project-structure)
@@ -67,15 +61,6 @@ The project also includes a **full console-based interface** (`Main.java`) with 
 
 ---
 
-## 🖼️ Screenshots
-
-> _Add your screenshots here_
->
-> `![Login Screen](screenshots/login.png)`
-> `![Admin Dashboard](screenshots/admin-dashboard.png)`
-> `![User Dashboard](screenshots/user-dashboard.png)`
-
----
 
 ## 🛠️ Tech Stack
 
